@@ -30,7 +30,7 @@ PERSONAL INFO:
 - Full Name: Akhilesh Bachu
 - City: Hyderabad, Telangana, India
 - Email: akhilesh.bachu@tachyontech.com
-- Device: HP Pavilion Laptop (AKHIL123), Windows, Node.js v24.12.0
+- Device: HP Pavilion Laptop (AKHIL1234), Windows, Node.js v24.12.0
 
 PROFESSIONAL:
 - Job: Salesforce Developer at Tachyon IT Solutions
