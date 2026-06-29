@@ -55,7 +55,7 @@ pip install -r requirements.txt
 2. Sign up / log in (it's free)
 3. Click **"Create API Key"** and copy it
 
-### 5. Set up environment variables
+##### 5. Set up environment variables
 
 ```bash
 # Copy the example file
